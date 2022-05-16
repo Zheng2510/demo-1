@@ -12,3 +12,10 @@
 * anchor 锚,定点 (安可儿encore)  block 块 (布洛克)
 * strong 强壮,重要 (死状)  inline 行内,[计算计特有名词]内联 (in+line)
 * emphasis 强调,重读 (俺服思思)  break 打断 (不睿可)
+## 英语课
+* 英语 翻译 助记 英语 翻译 助记 
+* hyper 超级 (害怕) blank 空白
+* target 目标 (他给他) parent 父母之一 (盼望他)
+* reference 引用 (refer+ence) self 自己
+* frame 边框,框架 load 加载
+* error 错误 (哎惹) canvas 画布
