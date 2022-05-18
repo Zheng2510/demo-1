@@ -14,7 +14,7 @@
 * onload/onerror(用来监听图片是否加载成功了)
 * 成功调用onload不成功onerror
 ### 响应式
-* max-width:100%(响应式不会固定)
+* max-width:100%(响应式,不会固定宽度)
 ```javascript
 <style>
         img {
