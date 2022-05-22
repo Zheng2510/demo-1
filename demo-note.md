@@ -30,3 +30,11 @@
 * 搜索chrome远程调试
 * 按照教程 {网址}[https://developer.chrome.com/docs/devtools/remote-debugging/]
 * 按照视频配置一下
+
+## 将网址部署到GitHub pages
+* 步骤-创建本地仓库-提交代码-上传到github-选择settings-选择github pages-选择分支保存
+* 将地址复制-返回仓库-选择edit-粘贴地址
+### 免费的服务器
+* 注意用户体验
+* 细节决定成败
+* 把预览地址放在显眼的地方
